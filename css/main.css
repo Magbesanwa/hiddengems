@@ -19,11 +19,11 @@ body {
     -o-background-size: cover;
 }
 
-/* Customize the text color and shadow color and to optimize text legibility. */
+ Customize the text color and shadow color and to optimize text legibility. 
 
 .tagline {
     text-shadow: 0 0 10px #000;
-    color: #fff;
+    color: white;
 }
 
 .img-center {
@@ -37,4 +37,9 @@ footer {
 .img-responsive {
     width: 200px;
     height: 200px;
+}
+
+.navbar {
+    background-color:teal;
+    font:white;
 }
