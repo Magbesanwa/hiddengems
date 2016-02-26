@@ -23,7 +23,7 @@ body {
 
 .tagline {
     text-shadow: 0 0 10px #000;
-    color: #fff;
+    color: white;
 }
 
 .img-center {
@@ -40,6 +40,6 @@ footer {
 }
 
 .navbar {
-    background-color:teal;
-    font:white;
+    background-color:white;
+    font-color:white;
 }
