@@ -44,5 +44,8 @@ footer {
     transform-origin:0 0;
 }
 */
-.p {
-    strong }
+
+h2 {text-align: center;}
+p {text-align: center; font-color: ;}
+
+.ol-sm-8 {text-align: justify;}
